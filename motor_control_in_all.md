@@ -221,7 +221,7 @@ $$
 $$
 \begin{align}
 \phi&=\arccos (\frac{Re(UI^*)}{|U||I|}) =(\frac{Re(U^*I)}{|U||I|}) \\
-\phi&=\arctan (\frac{Im(UI^*)}{Re(UI^*)}) =arccot (\frac{Re(UI^*)}{Im(UI^*)|}) \\
+\phi&=\arctan (\frac{Im(UI^*)}{Re(UI^*)}) =arccot (\frac{Re(UI^*)}{Im(UI^*)}) \\
 \end{align}
 $$
 
